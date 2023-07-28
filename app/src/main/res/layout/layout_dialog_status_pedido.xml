@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RadioGroup
+        android:id="@+id/rgStatus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="24dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RadioButton
+            android:id="@+id/rbPendente"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="@color/indigo"
+            android:minHeight="0dp"
+            android:text="Pendente"
+            android:textColor="@color/indigo" />
+
+        <RadioButton
+            android:id="@+id/rbAprovado"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="@color/indigo"
+            android:minHeight="0dp"
+            android:text="Aprovado"
+            android:textColor="@color/indigo" />
+
+        <RadioButton
+            android:id="@+id/rbCancelado"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="@color/indigo"
+            android:minHeight="0dp"
+            android:text="Cancelado"
+            android:textColor="@color/indigo" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btnFechar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:text="Fechar"
+        android:textAllCaps="false"
+        android:textColor="@color/indigo"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintBottom_toBottomOf="@+id/btnConfirmar"
+        app:layout_constraintEnd_toStartOf="@+id/btnConfirmar"
+        app:layout_constraintTop_toTopOf="@+id/btnConfirmar" />
+
+    <Button
+        android:id="@+id/btnConfirmar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="24dp"
+        android:background="@android:color/transparent"
+        android:text="Confirmar"
+        android:textAllCaps="false"
+        android:textColor="@color/indigo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/rgStatus"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

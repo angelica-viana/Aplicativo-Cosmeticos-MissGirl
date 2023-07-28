@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.usuario.UsuarioPerfilFragment">
+
+    <ScrollView
+        android:id="@+id/scrollView5"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        app:layout_constraintBottom_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/llLogado"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:paddingHorizontal="24dp"
+                    android:paddingVertical="16dp">
+
+                    <android.widget.Button
+                        android:id="@+id/btnEntrar"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Entrar"
+                        android:layout_marginEnd="8dp"
+                        android:textColor="@color/indigo"
+                        android:background="@drawable/bg_borda_roxa"/>
+
+                    <android.widget.Button
+                        android:id="@+id/btnCadastrar"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="Cadastrar"
+                        android:layout_marginStart="8dp"
+                        android:textColor="@color/indigo"
+                        android:background="@drawable/bg_borda_roxa"/>
+
+                </LinearLayout>
+
+                <include layout="@layout/divisor"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/btnMeusDados"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingVertical="16dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="24dp"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/ic_user_on"/>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginStart="24dp"
+                    android:layout_marginEnd="32dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Perfil"
+                        android:textSize="16sp"
+                        android:textColor="@color/indigo"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/orchid"
+                        android:text="Meus dados"/>
+
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="12dp"
+                    android:layout_height="12dp"
+                    android:layout_marginEnd="24dp"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/ic_seta_direita"/>
+
+            </LinearLayout>
+
+            <include layout="@layout/divisor"/>
+
+            <LinearLayout
+                android:id="@+id/btnEnderecos"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingVertical="16dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="24dp"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/ic_endereco"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:layout_marginStart="24dp"
+                    android:layout_marginEnd="32dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Endereços"
+                        android:textSize="16sp"
+                        android:textColor="@color/indigo"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@color/orchid"
+                        android:text="Meus endereços de entrega"/>
+
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="12dp"
+                    android:layout_height="12dp"
+                    android:layout_marginEnd="24dp"
+                    android:layout_gravity="center_vertical"
+                    android:src="@drawable/ic_seta_direita"/>
+                
+            </LinearLayout>
+
+            <include layout="@layout/divisor"/>
+
+          <LinearLayout
+              android:id="@+id/btnDeslogar"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+
+              <LinearLayout
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:paddingVertical="16dp"
+                  android:orientation="horizontal">
+
+                  <ImageView
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:layout_marginStart="24dp"
+                      android:layout_gravity="center_vertical"
+                      android:src="@drawable/ic_sair"/>
+
+                  <LinearLayout
+                      android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:layout_weight="1"
+                      android:layout_marginStart="24dp"
+                      android:layout_marginEnd="32dp"
+                      android:orientation="vertical">
+
+                      <TextView
+                          android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:text="Sair"
+                          android:textSize="16sp"
+                          android:textColor="@color/indigo"/>
+
+                      <TextView
+                          android:layout_width="match_parent"
+                          android:layout_height="wrap_content"
+                          android:textColor="@color/orchid"
+                          android:text="Deslogar da minha conta"/>
+
+                  </LinearLayout>
+
+                  <ImageView
+                      android:layout_width="12dp"
+                      android:layout_height="12dp"
+                      android:layout_marginEnd="24dp"
+                      android:layout_gravity="center_vertical"
+                      android:src="@drawable/ic_seta_direita"/>
+
+              </LinearLayout>
+
+              <include layout="@layout/divisor"/>
+
+          </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

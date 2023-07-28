@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "635416764316",
+    "project_id": "ecommercemissgirl-d2d0e",
+    "storage_bucket": "ecommercemissgirl-d2d0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635416764316:android:56d50490f27f75b1ea3259",
+        "android_client_info": {
+          "package_name": "com.example.ecommercemissgirl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635416764316-to9s02nju4bu1vtjfv53v1if4erap1fu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecommercemissgirl",
+            "certificate_hash": "ed35f869ff38e2bfbc3c465eb5f0128ed0583316"
+          }
+        },
+        {
+          "client_id": "635416764316-teumnluld1cjpct51aaabe2lbu8ilc23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxyJlo3cytLN2PLBNbJa6vfrwcyMGqUWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635416764316-teumnluld1cjpct51aaabe2lbu8ilc23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

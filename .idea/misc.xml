@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/backgroud.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/bg_add.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/bg_add_carrinho.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/bg_add_cicle.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/bg_add_detalhes_produtos.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/bg_borda_arredondada_laranja.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/bg_borda_cinza.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/bg_borda_roxa.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/bg_bottom_sheet.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/bg_btn_finalizar.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/bg_categoria_home.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/bg_desconto.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/bg_dialog.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/bg_edit_off.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/bg_like_button.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/bg_pesquisa.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/button.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/container_components.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/container_user.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/edit_text.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_add.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_add_borda.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_add_cinza.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_adicionar.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_ajuda.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_camera.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_carrinho.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_categorias_list.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_close.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_config.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_cupom.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_delete_borda_cinza.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_editar.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_email.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_empresa.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_endereco.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_favoritos_borda.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_fechar.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_galeria.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_inico.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_inico_indigo.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_loja_pedidos.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_menos.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_pagamentos.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_pedidos.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_perfil.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_pesquisa.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_produtos.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_resumo.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_sair.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_salvar.xml" value="0.21296296296296297" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_senha.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_seta_direita.xml" value="0.2169230769230769" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_user.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/ic_voltar.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/item_selected.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/shape_foto.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/drawable/side_nav_bar.xml" value="0.2203125" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_cadastro.xml" value="0.22" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_detalhes_pedido.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_detalhes_produto.xml" value="0.22" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_loja_config.xml" value="0.22" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_loja_form_pagamento.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_loja_form_pagamento2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_loja_form_produto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_loja_pagamento.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_loja_pagamentos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_loja_recebimentos.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_main_empresa.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_main_usuario.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_recupera_conta.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_usuario_endereco.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_usuario_form_endereco.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_usuario_pagamento_pedido.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_usuario_perfil.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_usuario_resumo_pedido.xml" value="0.22" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_usuario_seleciona_endereco.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/activity_usuario_seleciona_pagamento.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/bg_borda_roxa.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/bottom_sheet_form_produto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/dialog_add_item_carrinho.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/dialog_delete.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/dialog_form_categoria.xml" value="0.25" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/dialog_form_produto_categoria.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/dialog_loja_produto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/dialog_remover_carrinho.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/divisor.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/fragment_loja_categoria.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/fragment_loja_config.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/fragment_loja_pedido.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/fragment_loja_produto.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/fragment_usuario_carrinho.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/fragment_usuario_favorito.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/fragment_usuario_home.xml" value="0.22" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/fragment_usuario_pedido.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/fragment_usuario_perfil.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/ib_voltar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/item_adapter_carrinho.xml" value="0.1" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/item_categoria_dialog.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/item_categoria_horizontal.xml" value="0.22" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/item_endereco_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/item_forma_pagamento_adapter.xml" value="0.22" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/item_loja_pedido_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/item_pagamento_pedido_adapter.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/item_produto_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/item_produto_detalhe_pedido.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/item_produto_similar_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/item_selecao_endereco_adapter.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/item_slide_imagem.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/item_usuario_pedido_adapter.xml" value="0.22" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/layout_dialog_status_pedido.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/toolbar_voltar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/toolbar_voltar_add.xml" value="0.25" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/layout/toolbar_voltar_salvar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/menu/menu_loja.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/rho10/AndroidStudioProjects/EcommerceMissGirl2/app/src/main/res/menu/menu_usuario.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

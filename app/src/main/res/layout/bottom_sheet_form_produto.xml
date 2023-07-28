@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg_bottom_sheet">
+
+    <android.widget.Button
+        android:id="@+id/btnCamera"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="16dp"
+        android:paddingEnd="40dp"
+        android:text="Câmera"
+        android:drawableStart="@drawable/ic_camera"
+        android:background="@color/white"/>
+
+    <android.widget.Button
+        android:id="@+id/btnGaleria"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="16dp"
+        android:paddingEnd="40dp"
+        android:text="Galeria"
+        android:drawableStart="@drawable/ic_galeria"
+        android:background="@color/white"/>
+
+    <android.widget.Button
+        android:id="@+id/btnCancelar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="16dp"
+        android:paddingEnd="40dp"
+        android:text="Cancelar"
+        android:drawableStart="@drawable/ic_close"
+        android:background="@color/white"/>
+
+
+</LinearLayout>
